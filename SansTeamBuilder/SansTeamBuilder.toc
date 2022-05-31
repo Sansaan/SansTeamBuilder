@@ -1,0 +1,9 @@
+## Interface: 20504
+## Title: <|cffEE160BSan's|r |cffFFFC25Team Builder|r>
+## Author: Sansaan-Westfall
+## Version: 1.0.0
+## SavedVariables: SansTeamBuilderDB
+## X-Date: May 31, 2022
+
+embeds.xml
+SansTeamBuilder.lua
